@@ -1,4 +1,4 @@
-# XTab
+# AgileTabs
 Google Chrome extension for productive tab navigation experience
 
 ## Project Setup

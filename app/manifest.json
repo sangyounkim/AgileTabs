@@ -19,12 +19,12 @@
       "19": "images/icon-19.png",
       "38": "images/icon-38.png"
     },
-    "default_title": "XTab",
+    "default_title": "AgileTabs",
     "default_popup": "popup.html"
   },
   "options_page": "options.html",
   "omnibox": {
-    "keyword": "XTab"
+    "keyword": "AgileTabs"
   },
   "content_scripts": [
     {
