@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "XTab",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Chrome extension that simplifies the process of navigating between tabs",
+    "description": "The description of the application"
+  }
+}
