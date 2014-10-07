@@ -1,6 +1,8 @@
 {
   "name": "agiletabs",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "requirejs": "~2.1.15"
+  },
   "devDependencies": {}
 }
